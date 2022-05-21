@@ -28,3 +28,6 @@ tensorflow-cpu==2.7.0
 ```
 pip install -r requirements.txt
 ```
+#### for uninstaling
+
+pip uninstall -r requirements.txt -y
