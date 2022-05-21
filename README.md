@@ -1,5 +1,10 @@
 
-## torch without cpu download
+### torch without cpu download
+
+
+
+
+
 
 put inside the requirements.txt file
 
@@ -9,4 +14,10 @@ put inside the requirements.txt file
 torch==1.6.0+cpu
 
 torchvision==0.7.0+cpu
+```
+### tensorflow without cpu download
+
+
+```
+tensorflow-cpu==2.7.0
 ```
