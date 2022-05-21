@@ -30,4 +30,6 @@ pip install -r requirements.txt
 ```
 #### for uninstaling
 
+```
 pip uninstall -r requirements.txt -y
+```
