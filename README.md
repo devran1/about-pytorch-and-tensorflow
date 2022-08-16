@@ -33,3 +33,7 @@ pip install -r requirements.txt
 ```
 pip uninstall -r requirements.txt -y
 ```
+#### open3d 
+
+open3d  (408.6 MB)
+record3d maybe I can use them in slam???
