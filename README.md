@@ -35,5 +35,6 @@ pip uninstall -r requirements.txt -y
 ```
 #### open3d 
 
-open3d  (408.6 MB)
+open3d  (408.6 MB) #python3.7
+
 record3d maybe I can use them in slam???
