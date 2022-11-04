@@ -21,6 +21,7 @@ torchvision==0.7.0+cpu
 
 ```
 tensorflow-cpu==2.7.0
+tensorflow-cpu==2.10.0
 ```
 
 #### installing from requirements.txt use
