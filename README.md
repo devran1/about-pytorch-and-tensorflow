@@ -23,7 +23,11 @@ torchvision==0.7.0+cpu
 tensorflow-cpu==2.7.0
 tensorflow-cpu==2.10.0
 ```
-
+if you need to change anything with compat instead off adding compat to every line just add the code below
+```
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+```
 #### installing from requirements.txt use
 
 ```
