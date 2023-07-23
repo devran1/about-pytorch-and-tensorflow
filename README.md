@@ -43,3 +43,15 @@ pip uninstall -r requirements.txt -y
 open3d  (408.6 MB) #python3.7
 
 record3d maybe I can use them in slam???
+
+
+
+#### how do you install tkinter
+
+```
+sudo apt-get install python3.7-tk
+sudo apt-get install python3.11-tk python3-dev 
+sudo apt-get install python3-tk python3-dev
+```
+
+
