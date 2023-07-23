@@ -54,4 +54,25 @@ sudo apt-get install python3.11-tk python3-dev
 sudo apt-get install python3-tk python3-dev
 ```
 
+----------------------------
 
+no matter what you are downloading start it or make it work in an environment
+
+(github repos work in virtualenv (environments) and the things you build works in environments )
+```
+python environment
+virtualenv env
+source env/bin/activate
+```
+or 
+```
+python3.11 -m venv env
+source env/bin/activate
+```
+
+then copy the files inside of the environment
+
+after that download requirements ....etc
+```
+pip -r install requirements.txt
+```
