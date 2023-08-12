@@ -8,7 +8,7 @@
 
 put inside the requirements.txt file
 
-
+python3.7 (maybe)
 ```
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
@@ -16,6 +16,18 @@ torch==1.6.0+cpu
 
 torchvision==0.7.0+cpu
 ```
+python3.11
+```
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch==2.0.0+cpu
+
+torchvision==0.15.0+cpu
+```
+
+
+
+
 ### tensorflow without cpu download
 
 
