@@ -15,6 +15,11 @@ python3.7 (maybe)
 torch==1.6.0+cpu
 
 torchvision==0.7.0+cpu
+
+#HOW TO USE THE LINKS IN COLAB
+```!pip install --find-links https://download.pytorch.org/whl/torch_stable.html torch==1.6.0+cpu```
+
+
 ```
 python3.11
 ```
