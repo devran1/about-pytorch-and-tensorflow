@@ -8,6 +8,18 @@
 
 put inside the requirements.txt file
 
+```
+python3.11
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch==2.3.1+cpu
+
+torchvision==0.18.1+cpu
+```
+
+
+
 python3.7 (maybe)
 ```
 --find-links https://download.pytorch.org/whl/torch_stable.html
